@@ -87,7 +87,7 @@ Choose one of the following options:
 * Extensive documentation.
 
 ## Browser support
-HTML5-Boilerplate supports the latest, stable releases of all major browsers. 
+HTML5-Boilerplate supports the latest, stable releases of all major browsers.
 
 You can find our range of supported browsers in our [package.json](https://github.com/h5bp/html5-boilerplate/blob/main/package.json#L56-L62) At present we extend the [browserlist default](https://github.com/browserslist/browserslist#full-list) with the addition of IE 11 and [FireFox ESR.](https://www.mozilla.org/en-US/firefox/enterprise/)
 
@@ -123,4 +123,4 @@ involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.m
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [MIT license](../LICENSE.txt).

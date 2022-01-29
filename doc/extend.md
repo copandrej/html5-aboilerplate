@@ -406,7 +406,8 @@ Though the dimensions of the icon can vary between iOS devices and versions one
 `<head>` of the page is enough:
 
 ```html
-<link rel="apple-touch-icon" href="icon.png">
+
+<link rel="apple-touch-icon" href="../icon.pngpng">
 ```
 
 For a more comprehensive overview, please refer to Mathias' [article on Touch
@@ -422,7 +423,7 @@ necessary to add media queries to detect which image to load. Here is an example
 for an iPhone:
 
 ```html
-<link rel="apple-touch-startup-image" media="(max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)" href="img/startup.png">
+<link rel="apple-touch-startup-image" media="(max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)" href="../img/startup.png">
 ```
 
 
