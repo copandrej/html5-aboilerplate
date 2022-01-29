@@ -41,20 +41,7 @@ way that you want.
 ## Browser support
 HTML5-Boilerplate supports the latest, stable releases of all major browsers.
 
-You can find our range of supported browsers in our [package.json](https://github.com/h5bp/html5-boilerplate/blob/main/package.json#L56-L62) At present we extend the [browserlist default](https://github.com/browserslist/browserslist#full-list) with the addition of IE 11 and [FireFox ESR.](https://www.mozilla.org/en-US/firefox/enterprise/)
-
-```json
-  "browserslist": [
-    "> 0.5%",
-    "last 2 versions",
-    "Firefox ESR",
-    "not dead",
-    "IE 11"
-  ],
-```
-
 [That configuration translates to this full list of browsers.](https://browserslist.dev/?q=ID4gMC41JSwgICAgIGxhc3QgMiB2ZXJzaW9ucywgICAgIEZpcmVmb3ggRVNSLCAgICBub3QgZGVhZCwgICAgIElFIDEx)
-
 
 ## Documentation
 
@@ -62,7 +49,6 @@ Take a look at the [documentation table of contents](doc/TOC.md). This
 documentation is bundled with the project which makes it available for offline
 reading and provides a useful starting point for any documentation you want to
 write about your project.
-
 
 ## License
 
