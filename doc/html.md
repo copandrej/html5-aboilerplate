@@ -120,7 +120,7 @@ It's linked to from the HTML as follows:
 ```
 
 Our
-[site.webmanifest](https://github.com/h5bp/html5-boilerplate/blob/main/src/site.webmanifest)
+site.webmanifest
 contains a very skeletal "app" definition, just to show the basic usage. You
 should fill this file out with
 [more information about your site or application](https://developer.mozilla.org/en-US/docs/Web/Manifest)
@@ -166,9 +166,9 @@ it before the other scripts in the bottom of the page:
 
 ```html
 
-<script src="../js/vendor/modernizr-3.11.7.min.js"></script>
+<script src="../js/vendor/modernizr-3.11.8.min.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js"></script>
-<script src="../js/app.js"></script>
+<script src="../js/script.js"></script>
 </body>
 ```
 
