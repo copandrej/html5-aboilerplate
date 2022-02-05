@@ -1,4 +1,4 @@
-# HTML5 ABoilerplate
+# HTML5 Template/Boilerplate
 
 This project is a fork of original HTML5 Boilerplate modified and shortened for my  personal use.
 Original authors:
